@@ -1,0 +1,73 @@
+body{
+    background:linear-gradient(yellow,black);
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+
+.titre{
+    background-color: black;
+    color:white;
+    font-size: 40px;
+    
+    
+}
+table{
+    background-color: white;
+    margin:auto;
+}
+.text{
+    font-size: 15px;
+    padding-bottom:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lui{
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+    padding-top:10px;
+}
+.dis{
+    background-color: rgb(91, 91, 1);
+    color:white;
+    font-size: 25px;
+
+}
+.ima{
+    width: 1px;
+}
+.photoActeur{
+    width:80px;
+    height:80px;
+    margin:10px;
+    border-radius:40px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:inline-block;
+    margin-right: 0px;
+    padding-right: 0px;
+    
+}
+.nomActeur{
+    color:blue;
+    font-style: italic;
+    
+
+}
+.titreSection{
+    font-weight: bold ;
+    font-size: 25px;
+    padding-left: 25px;
+}
+.vraiNom{
+    font-size: 25px;
+    font-weight: bold ;
+
+}
+.ctr{
+    width:150px;
+    
+}
+.ctd{
+    width:375px
+}
